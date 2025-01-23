@@ -4,4 +4,5 @@ Implemented a Neural Network Classification model to classify handwritten digits
 
 
 Technologies used -> Python, Numpy, Pandas
+
 Dataset -> https://www.kaggle.com/competitions/digit-recognizer/data
